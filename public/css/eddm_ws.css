@@ -1,0 +1,13 @@
+ #grid {
+   width: 275px;
+   height: 200px;
+ }
+ 
+ html, body {
+  width: 99%;
+  height: 99%;
+  margin: 0;
+ }
+ .dojoxGridCell {
+    text-align: right;
+ }
